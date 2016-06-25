@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\TestProject\FragmentBasics1\app\src\main\jniLibs"/></dataSet><dataSet config="prod"><source path="D:\TestProject\FragmentBasics1\app\src\prod\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\TestProject\FragmentBasics1\app\src\debug\jniLibs"/></dataSet><dataSet config="prodDebug"><source path="D:\TestProject\FragmentBasics1\app\src\prodDebug\jniLibs"/></dataSet></merger>
