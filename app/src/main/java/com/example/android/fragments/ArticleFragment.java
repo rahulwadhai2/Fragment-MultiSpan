@@ -36,7 +36,7 @@ public class ArticleFragment extends Fragment {
         if (savedInstanceState != null) {
             mCurrentPosition = savedInstanceState.getInt(ARG_POSITION);
         }
-        //texttrf
+        //texttrfytt
 
         View view =  inflater.inflate(R.layout.article_view, container, false);
         article = (TextView)view.findViewById(R.id.article);
